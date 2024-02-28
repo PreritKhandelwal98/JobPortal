@@ -1,0 +1,66 @@
+[{
+  "_id": {
+    "$oid": "65ddcda4ca8c2895c295984a"
+  },
+  "name": "Babu",
+  "email": "Test2@demo.com",
+  "password": "$2a$10$HYv9cA9okblw73htzT8wiu2U70TJR50VbeCrotq9zvH5kbrTtHCsK",
+  "location": "India",
+  "createdAt": {
+    "$date": "2024-02-27T11:55:16.431Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-28T07:08:37.700Z"
+  },
+  "__v": 0,
+  "lastName": "Khandelwal"
+},
+{
+  "_id": {
+    "$oid": "65ded41d0f1b4fd1cc33268b"
+  },
+  "name": "Test3",
+  "email": "Test3@demo.com",
+  "password": "$2a$10$Hq3psJGZjnQybF16v5R90ON.C2MK4pQTMatNETCezxemljnGVYa9m",
+  "location": "Jaipur",
+  "createdAt": {
+    "$date": "2024-02-28T06:35:09.903Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-28T06:35:09.903Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65dedc6b8b766be43243a53d"
+  },
+  "name": "Babu",
+  "email": "Test@demo.com",
+  "password": "$2a$10$gV90s2q.KVptGS7ivbSeMe6lSPdi3OwS/rLfzRL4lYTtOqj8LyJGK",
+  "location": "India",
+  "createdAt": {
+    "$date": "2024-02-28T07:10:35.944Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-28T07:12:37.963Z"
+  },
+  "__v": 0,
+  "lastName": "Khandelwal"
+},
+{
+  "_id": {
+    "$oid": "65def12537af4f24d3c2a161"
+  },
+  "name": "Shaktimaan",
+  "email": "shakti@demo.com",
+  "password": "$2a$10$IrMa..z9zD4RkXgO9v1ifOonpKjQzvQ727jGy5rMcInnf6Bq61BzG",
+  "location": "Jaipur",
+  "createdAt": {
+    "$date": "2024-02-28T08:39:01.304Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-28T08:39:01.304Z"
+  },
+  "__v": 0
+}]
