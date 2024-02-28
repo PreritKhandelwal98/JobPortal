@@ -5,7 +5,9 @@ import testRoutes from "./routes/testRoutes.js"
 import cors from 'cors'
 import authRoutes from './routes/authRoutes.js'
 import errroMiddelware from "./middelwares/errorMiddleware.js";
+import jobsRoutes from './routes/jobsRoutes.js'
 import 'express-async-errors'
+import userRoutes from "./routes/userRoutes.js";
 // Config
 dotenv.config();
 
@@ -21,7 +23,7 @@ app.use(cors());
 // Define routes
 app.use('/api/v1/test',testRoutes)
 app.use('/api/v1/auth',authRoutes)
-
+app.use('/api/v1/user',userRoutes)
 //validation middelware
 app.use(errroMiddelware)
 
